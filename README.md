@@ -13,6 +13,8 @@
   ·
   <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">下载最新版</a>
   ·
+  <a href="INTRODUCTION.md">详细介绍</a>
+  ·
   <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/issues">反馈问题</a>
 </p>
 
@@ -76,6 +78,8 @@ SHA256：
 如果你在使用中遇到问题，或者有很具体的改进建议，欢迎在这里留言：
 
 [提交 Issue / 反馈建议](https://github.com/sheepdog-ai/xiaoyangchengjuan/issues)
+
+也可以先看这篇更完整的介绍：[我做了一个给长篇小说作者用的 AI 写作工作台：小羊成卷](INTRODUCTION.md)
 
 建议反馈时尽量带上：
 

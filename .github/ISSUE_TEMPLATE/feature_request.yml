@@ -1,0 +1,22 @@
+name: Feature request / 功能建议
+description: Suggest a workflow, model, UI, or writing improvement.
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve? / 你想解决什么问题
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested solution / 你的建议
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Writing context / 创作场景
+      description: Tell us how this would help your novel or writing workflow.

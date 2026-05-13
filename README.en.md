@@ -13,6 +13,8 @@
   ·
   <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">Download</a>
   ·
+  <a href="INTRODUCTION.en.md">Overview</a>
+  ·
   <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/issues">Feedback</a>
 </p>
 
@@ -76,6 +78,8 @@ SHA256:
 If you run into issues or have suggestions, please leave a note here:
 
 [Open an Issue](https://github.com/sheepdog-ai/xiaoyangchengjuan/issues)
+
+You can also read the longer overview here: [I built an AI writing workspace for long-form fiction creators](INTRODUCTION.en.md)
 
 Helpful feedback includes:
 

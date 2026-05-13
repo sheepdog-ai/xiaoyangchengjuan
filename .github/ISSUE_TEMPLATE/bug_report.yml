@@ -1,0 +1,48 @@
+name: Bug report / 问题反馈
+description: Report a crash, broken flow, or unexpected behavior.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve 小羊成卷 / Lambfolio.
+  - type: input
+    id: app-version
+    attributes:
+      label: App version / 应用版本
+      placeholder: "1.0.0 (9)"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS and device / 系统与设备
+      placeholder: "macOS 14/15/26, Apple Silicon"
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model provider and model / 模型服务与模型
+      placeholder: "OpenAI / DeepSeek / Kimi / Anthropic / Ollama, model name"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened / 发生了什么
+      description: Describe the screen, step, and unexpected behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce / 复现步骤
+      placeholder: |
+        1. Open...
+        2. Click...
+        3. See...
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots / 日志或截图
+      description: Drag crash logs or screenshots here if available.

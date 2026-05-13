@@ -1,0 +1,22 @@
+name: Early feedback / 早期试用反馈
+description: Share general impressions after trying the app.
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: useful
+    attributes:
+      label: What felt useful? / 哪些地方有帮助
+  - type: textarea
+    id: confusing
+    attributes:
+      label: What felt confusing or rough? / 哪些地方困惑或粗糙
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Your writing workflow / 你的创作流程
+      description: What kind of fiction do you write, and where might this app fit?
+  - type: textarea
+    id: wishes
+    attributes:
+      label: What would make you keep using it? / 怎样改你会继续用
