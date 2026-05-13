@@ -5,22 +5,18 @@
 <h1 align="center">Sheepdog AI</h1>
 
 <p align="center">
-  小羊成卷发布页 · NovelWorkbench release page
+  小羊成卷发布页
 </p>
 
 <p align="center">
-  <a href="#中文">中文</a>
+  <a href="README.en.md">English</a>
   ·
-  <a href="#english">English</a>
+  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">下载最新版</a>
   ·
-  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">Download</a>
-  ·
-  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/issues">Feedback</a>
+  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/issues">反馈问题</a>
 </p>
 
 ---
-
-<a id="中文"></a>
 
 ## 小羊成卷
 
@@ -28,7 +24,7 @@
   <img src="assets/app-icon.png" alt="小羊成卷 App Icon" width="132">
 </p>
 
-小羊成卷是一个给长篇小说创作者使用的 macOS 写作工作台。
+小羊成卷是一个给长篇小说创作者使用的 macOS 写作工具。英文名暂定为 **Lambfolio**。
 
 它不是普通文本编辑器，而是围绕“小说生产流程”设计：把立意、设定、人物、世界观、卷纲、章节与正文修订拆成一个个可以确认、回退、微调的节点，帮助创作者把散落的灵感逐步整理成可推进的作品。
 
@@ -50,6 +46,12 @@
 5. 每一步生成后先确认，再推进到下一阶段。
 
 当前版本仍在早期迭代中，更适合愿意一起打磨流程的创作者使用。
+
+### 使用平台
+
+- macOS 14.0 或更高版本。
+- 当前发布包为 Apple Silicon / arm64 版本。
+- Intel Mac 暂未单独提供构建包。
 
 ### 下载
 
@@ -88,88 +90,16 @@ SHA256：
 
 ### 关于为什么放在 GitHub
 
-原本想把小羊成卷放到苹果商店上架试试，但这类工具需要用户配置自己的模型服务和 API Key，而苹果商店对这种模式有额外限制。
+<sub>
+原本想把小羊成卷放到 Mac App Store 上架试试，但这类工具需要用户配置自己的模型服务和 API Key。评估下来，这种“用户自带模型服务”的使用方式和商店分发、内购规则之间需要做一些额外适配。
+</sub>
 
-如果为了上架而改成内置服务，就会带来平台抽成和额外成本，我也不太想把这部分成本转嫁给用户。想了想，干脆先放到 GitHub，让真正需要的人能直接下载使用。希望它能对大家的创作有一点帮助。
+<sub>
+如果为了上架而改成内置服务，也会带来额外的服务成本和平台费用。我不太想把这些成本转嫁给用户，所以先放到 GitHub，让真正需要的人能直接下载使用。希望它能对大家的创作有一点帮助。
+</sub>
 
 ### 许可
 
 本软件仅限个人非商业使用。禁止商用、转载、镜像、二次分发、转售或转授权。
 
 详细条款见 [LICENSE.txt](LICENSE.txt)。
-
----
-
-<a id="english"></a>
-
-## NovelWorkbench
-
-<p align="center">
-  <img src="assets/app-icon.png" alt="NovelWorkbench App Icon" width="132">
-</p>
-
-NovelWorkbench is a macOS writing workspace for long-form fiction creators.
-
-It is not a plain text editor. It is designed around the production flow of a novel: premise, worldbuilding, characters, outline, chapters, and prose revision are organized into clear steps that can be reviewed, confirmed, revised, or regenerated.
-
-### What it helps with
-
-- **Project brief**: genre, core appeal, reader expectations, and creative boundaries.
-- **Worldbuilding**: rules, geography, factions, culture, and foundational settings.
-- **Character design**: protagonists, supporting cast, relationships, motivations, and arcs.
-- **Story outline**: volume plans, chapter structures, and key turning points.
-- **Prose workflow**: generation, refinement, and review based on existing context.
-- **Human confirmation**: review important outputs before moving to the next stage.
-
-### How to use
-
-1. Download the latest `.dmg` package.
-2. Open the DMG and drag `小羊成卷.app` into `Applications`.
-3. Open the app and configure your own model provider and API key in Settings.
-4. Create a project and follow the guidance cards step by step.
-5. Review each generated result before approving the next stage.
-
-This is still an early release. It is best suited for creators who are willing to try the workflow and help shape future versions.
-
-### Download
-
-[Download the latest release](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
-
-Current file:
-
-```text
-xiaoyangchengjuan-0.9.0-1.dmg
-```
-
-SHA256:
-
-```text
-2126ca42d3efef77e5a2be7bebfa66cfe8f7d473c6f8b59c8d7f445b8ca9b92b
-```
-
-### Feedback
-
-If you run into issues or have suggestions, please leave a note here:
-
-[Open an Issue](https://github.com/sheepdog-ai/xiaoyangchengjuan/issues)
-
-Helpful feedback includes:
-
-- Which step you were on and what the screen showed.
-- Which model provider and model you were using.
-- What change would make the workflow smoother for you.
-- Crash logs, screenshots, or reproduction steps if available.
-
-I will keep improving the app when I have time. The official website is still under construction, so this GitHub page currently serves as the temporary download and feedback page.
-
-### Why GitHub for now
-
-I originally wanted to try releasing NovelWorkbench through the Mac App Store. However, this kind of tool is built around users bringing their own model provider and API key, and that does not fit neatly with the store requirements.
-
-Building an in-app service layer just to satisfy distribution rules would add platform fees and operational costs, and I do not want to pass those costs on to users. So for now, GitHub is the simpler and cleaner place to make it available. I hope it helps people write.
-
-### License
-
-Personal, non-commercial use only. Commercial use, redistribution, mirroring, resale, and sublicensing are prohibited.
-
-See [LICENSE.txt](LICENSE.txt) for details.
