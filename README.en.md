@@ -21,7 +21,7 @@
 ## Lambfolio
 
 <p align="center">
-  <img src="assets/xiaoyangchengjuan-app-icon-v3.png" alt="Lambfolio App Icon" width="132">
+  <img src="assets/lambfolio-app-icon-1.0.0.png" alt="Lambfolio App Icon" width="132">
 </p>
 
 **Lambfolio** is the English name for 小羊成卷, a macOS writing tool for long-form fiction creators.
@@ -62,13 +62,13 @@ This is still an early release. It is best suited for creators who are willing t
 Current file:
 
 ```text
-xiaoyangchengjuan-0.9.0-1.dmg
+xiaoyangchengjuan-1.0.0-9.dmg
 ```
 
 SHA256:
 
 ```text
-2126ca42d3efef77e5a2be7bebfa66cfe8f7d473c6f8b59c8d7f445b8ca9b92b
+5f0b4d51c3d5942997b8d8a0602f64a88eeac054fb727fc7ed87d290e02461d5
 ```
 
 ### Feedback
