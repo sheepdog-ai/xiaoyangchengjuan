@@ -28,6 +28,8 @@
 
 It is not a plain text editor. It is designed around the production flow of a novel: premise, worldbuilding, characters, outline, chapters, and prose revision are organized into clear steps that can be reviewed, confirmed, revised, or regenerated.
 
+Keywords: novel writing, AI writing, fiction writing, long-form fiction, web novel, worldbuilding, character design, story outline, chapter planning, prose revision, macOS writing tool.
+
 ### What it helps with
 
 - **Project brief**: genre, core appeal, reader expectations, and creative boundaries.
