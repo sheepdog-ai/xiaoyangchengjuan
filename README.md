@@ -21,7 +21,7 @@
 ## 小羊成卷
 
 <p align="center">
-  <img src="assets/app-icon.png" alt="小羊成卷 App Icon" width="132">
+  <img src="assets/xiaoyangchengjuan-app-icon-v3.png" alt="小羊成卷 App Icon" width="132">
 </p>
 
 小羊成卷是一个给长篇小说创作者使用的 macOS 写作工具。英文名暂定为 **Lambfolio**。

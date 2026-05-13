@@ -21,7 +21,7 @@
 ## Lambfolio
 
 <p align="center">
-  <img src="assets/app-icon.png" alt="Lambfolio App Icon" width="132">
+  <img src="assets/xiaoyangchengjuan-app-icon-v3.png" alt="Lambfolio App Icon" width="132">
 </p>
 
 **Lambfolio** is the English name for 小羊成卷, a macOS writing tool for long-form fiction creators.
