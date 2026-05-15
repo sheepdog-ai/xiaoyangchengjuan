@@ -1,15 +1,15 @@
-# 小羊成卷 / Lambfolio 1.0.0 (9)
+# 小羊成卷 / Lambfolio 1.0.0 (10)
 
 GitHub DMG 发布包。
 
 ## 下载文件
 
-- `xiaoyangchengjuan-1.0.0-9.dmg`
+- `xiaoyangchengjuan-1.0.0-10.dmg`
 
 ## SHA256
 
 ```text
-5f0b4d51c3d5942997b8d8a0602f64a88eeac054fb727fc7ed87d290e02461d5  xiaoyangchengjuan-1.0.0-9.dmg
+6d12a1eb9a54771cb939f66b86af85caa323bdf2197c67222519ca3a7677fc78  xiaoyangchengjuan-1.0.0-10.dmg
 ```
 
 ## 使用平台
