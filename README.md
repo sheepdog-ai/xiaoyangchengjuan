@@ -11,7 +11,9 @@
 <p align="center">
   <a href="README.en.md">English</a>
   ·
-  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">下载最新版</a>
+  <a href="https://sheepdogai.net/">官网</a>
+  ·
+  <a href="https://sheepdogai.net/downloads">下载中心</a>
   ·
   <a href="INTRODUCTION.md">详细介绍</a>
   ·
@@ -43,7 +45,7 @@
 
 ### 怎么使用
 
-1. 下载最新的 `.dmg` 安装包。
+1. 从官网下载最新的 `.dmg` 安装包。
 2. 打开 DMG，将 `小羊成卷.app` 拖入 `Applications`。
 3. 打开应用，在设置中配置你自己的模型服务和 API Key。
 4. 新建项目，按引导卡逐步填写信息。
@@ -59,7 +61,9 @@
 
 ### 下载
 
-[下载最新版本](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
+[前往官网下载中心](https://sheepdogai.net/downloads)
+
+备用下载入口：[GitHub Releases](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
 
 当前发布文件：
 
@@ -92,7 +96,9 @@ SHA256：
 
 ### 官网
 
-官网正在搭建中。现在这个 GitHub 页面先作为临时下载页和反馈入口。
+官网已上线：[sheepdogai.net](https://sheepdogai.net/)
+
+下载中心：[sheepdogai.net/downloads](https://sheepdogai.net/downloads)
 
 
 ### 许可

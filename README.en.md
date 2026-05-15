@@ -11,7 +11,9 @@
 <p align="center">
   <a href="README.md">中文</a>
   ·
-  <a href="https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest">Download</a>
+  <a href="https://sheepdogai.net/">Website</a>
+  ·
+  <a href="https://sheepdogai.net/downloads">Download Center</a>
   ·
   <a href="INTRODUCTION.en.md">Overview</a>
   ·
@@ -43,7 +45,7 @@ Keywords: novel writing, AI writing, fiction writing, long-form fiction, web nov
 
 ### How to use
 
-1. Download the latest `.dmg` package.
+1. Download the latest `.dmg` package from the official website.
 2. Open the DMG and drag `小羊成卷.app` into `Applications`.
 3. Open the app and configure your own model provider and API key in Settings.
 4. Create a project and follow the guidance cards step by step.
@@ -59,7 +61,9 @@ This is still an early release. It is best suited for creators who are willing t
 
 ### Download
 
-[Download the latest release](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
+[Go to the official download center](https://sheepdogai.net/downloads)
+
+Backup download: [GitHub Releases](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
 
 Current file:
 
@@ -88,7 +92,7 @@ Helpful feedback includes:
 - What change would make the workflow smoother for you.
 - Crash logs, screenshots, or reproduction steps if available.
 
-I will keep improving the app when I have time. The official website is still under construction, so this GitHub page currently serves as the temporary download and feedback page.
+I will keep improving the app when I have time. The official website is now available at [sheepdogai.net](https://sheepdogai.net/), with downloads at [sheepdogai.net/downloads](https://sheepdogai.net/downloads).
 
 
 ### License
