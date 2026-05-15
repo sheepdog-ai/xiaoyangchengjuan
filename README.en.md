@@ -90,15 +90,6 @@ Helpful feedback includes:
 
 I will keep improving the app when I have time. The official website is still under construction, so this GitHub page currently serves as the temporary download and feedback page.
 
-### Why GitHub for now
-
-<sub>
-I originally considered releasing Lambfolio through the Mac App Store, but this kind of tool is built around users bringing their own model provider and API key. After looking at the distribution and in-app purchase requirements, that model would need extra product and infrastructure work to fit the store flow.
-</sub>
-
-<sub>
-Building an in-app service layer only for distribution would also add service costs and platform fees. I would rather not pass those costs on to users, so GitHub is the simpler place to make the app available for now. I hope it helps people write.
-</sub>
 
 ### License
 

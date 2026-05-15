@@ -51,11 +51,3 @@ It is probably not the right tool if you only need a plain text editor, or if yo
 This is an early release. It is available to download and try, but it is still being improved.
 
 If you try it, feedback is welcome. Please share where you got stuck, which model provider and model you used, what you expected, and any crash logs or screenshots that could help.
-
-## Why GitHub first
-
-I originally considered releasing Lambfolio through the Mac App Store, but this kind of tool is built around users bringing their own model provider and API key. After looking at the distribution and in-app purchase requirements, that model would need extra product and infrastructure work to fit the store flow.
-
-Building an in-app service layer only for distribution would also add service costs and platform fees. I would rather not pass those costs on to users, so GitHub is the simpler place to make the app available for now.
-
-I hope it helps people write.
