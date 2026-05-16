@@ -1,22 +1,22 @@
-# 小羊成卷 / Lambfolio 1.0.0 (11)
+# 小羊成卷 / Lambfolio 1.0.0 (12)
 
 GitHub DMG 发布包。
 
 ## 下载文件
 
-- `xiaoyangchengjuan-1.0.0-11.dmg`
+- `xiaoyangchengjuan-1.0.0-12.dmg`
 
 ## 更新内容
 
-- 新增 LM Studio 本地服务商适配。
-- 支持 LM Studio OpenAI 兼容接口 `/v1/chat/completions`。
-- 本地模型服务可免 API Key 连接测试与激活。
-- 模型列表刷新支持 LM Studio `/v1/models`。
+- 字数/篇幅控制改为软提示，不再因正文、章节大纲、导演脚本篇幅不足直接判定失败。
+- 语义校验同步调整为只拦结构缺失、类型错误、严重逻辑问题。
+- S6 正文短篇幅输出会进入 warnings/suggestions，避免触发无意义重试。
+- 保留 LM Studio 本地服务商适配与免 API Key 连接能力。
 
 ## SHA256
 
 ```text
-9761a8b5c4bd746a5ff063dfc2dcc291f87b902017fc320573905c5d4e778928  xiaoyangchengjuan-1.0.0-11.dmg
+dffcda19e4c870311ab55bc9c5eda2c9b22a7763f1559533bce30b00f4f72ea9  xiaoyangchengjuan-1.0.0-12.dmg
 ```
 
 ## 使用平台

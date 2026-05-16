@@ -68,13 +68,13 @@ Backup download: [GitHub Releases](https://github.com/sheepdog-ai/xiaoyangchengj
 Current file:
 
 ```text
-xiaoyangchengjuan-1.0.0-11.dmg
+xiaoyangchengjuan-1.0.0-12.dmg
 ```
 
 SHA256:
 
 ```text
-9761a8b5c4bd746a5ff063dfc2dcc291f87b902017fc320573905c5d4e778928
+dffcda19e4c870311ab55bc9c5eda2c9b22a7763f1559533bce30b00f4f72ea9
 ```
 
 ### Feedback
