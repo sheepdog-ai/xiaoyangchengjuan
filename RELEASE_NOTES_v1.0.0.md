@@ -1,22 +1,22 @@
-# 小羊成卷 / Lambfolio 1.0.0 (10)
+# 小羊成卷 / Lambfolio 1.0.0 (13)
 
 GitHub DMG 发布包。
 
 ## 下载文件
 
-- `xiaoyangchengjuan-1.0.0-10.dmg`
+- `xiaoyangchengjuan-1.0.0-13.dmg`
 
 ## 更新内容
 
-- 初始发布版本。
-- 支持项目设定、世界观搭建、人物设计。
-- 支持故事大纲生成与正文推进。
-- 支持人工确认与微调机制。
+- 修复 DMG 内 App bundle 签名，避免 macOS 提示应用已损坏。
+- 新增 LM Studio 本地服务商适配与免 API Key 连接能力。
+- 字数/篇幅控制改为软提示，不再因正文、章节大纲、导演脚本篇幅不足直接判定失败。
+- 发布流程增加 DMG 挂载后验签，降低坏包发布风险。
 
 ## SHA256
 
 ```text
-6d12a1eb9a54771cb939f66b86af85caa323bdf2197c67222519ca3a7677fc78  xiaoyangchengjuan-1.0.0-10.dmg
+ccfc1de3df6a2d7c36c02d4a9d730832881c932d944b24292c6e23a0e16b6d37  xiaoyangchengjuan-1.0.0-13.dmg
 ```
 
 ## 使用平台

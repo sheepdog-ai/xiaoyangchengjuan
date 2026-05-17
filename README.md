@@ -68,13 +68,13 @@
 当前发布文件：
 
 ```text
-xiaoyangchengjuan-1.0.0-10.dmg
+xiaoyangchengjuan-1.0.0-13.dmg
 ```
 
 SHA256：
 
 ```text
-6d12a1eb9a54771cb939f66b86af85caa323bdf2197c67222519ca3a7677fc78
+ccfc1de3df6a2d7c36c02d4a9d730832881c932d944b24292c6e23a0e16b6d37
 ```
 
 ### 反馈与建议
