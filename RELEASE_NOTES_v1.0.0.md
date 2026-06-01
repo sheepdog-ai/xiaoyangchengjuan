@@ -1,19 +1,22 @@
-# 小羊成卷 / Lambfolio 1.0.0 (14)
+# 小羊成卷 / Lambfolio 1.0.0 (15)
 
 GitHub DMG 发布包。
 
 ## 下载文件
 
-- `xiaoyangchengjuan-1.0.0-14.dmg`
+- `xiaoyangchengjuan-1.0.0-15.dmg`
 
 ## 更新内容
 
-- 常规维护更新与稳定性改进。
+- 优化长篇生成内存管理，冻结后释放节点临时上下文与流式事件。
+- 流式正文仅保留界面尾部窗口，避免长输出造成内存持续增长。
+- 加强模型 JSON 输出校验，异常包装文本会触发重试。
+- 正文写作优先生成 4000 字以上丰富内容，同时保留 3000 字软提示以兼容更多模型。
 
 ## SHA256
 
 ```text
-0d3596464d8792d6a25226e50b4427c3f589bdc1207c488eef4ddfc7341fe511  xiaoyangchengjuan-1.0.0-14.dmg
+8f0e1712f2ad83c284157576ce90c106d6cb35ce47e60060c53ebbc1d5028c46  xiaoyangchengjuan-1.0.0-15.dmg
 ```
 
 ## 使用平台

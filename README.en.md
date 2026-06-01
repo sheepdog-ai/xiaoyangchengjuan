@@ -4,7 +4,7 @@ A macOS AI writing workbench designed for long-form novel creators.
 
 ## Latest Release
 
-- **v1.0.0 build 14** — [Download xiaoyangchengjuan-1.0.0-14.dmg](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
+- **v1.0.0 build 15** — [Download xiaoyangchengjuan-1.0.0-15.dmg](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
 
 ## Introduction
 

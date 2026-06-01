@@ -4,7 +4,7 @@
 
 ## 最新版本
 
-- **v1.0.0 build 14** — [下载 xiaoyangchengjuan-1.0.0-14.dmg](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
+- **v1.0.0 build 15** — [下载 xiaoyangchengjuan-1.0.0-15.dmg](https://github.com/sheepdog-ai/xiaoyangchengjuan/releases/latest)
 
 ## 简介
 
